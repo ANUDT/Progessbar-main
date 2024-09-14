@@ -94,5 +94,5 @@ text-align: center;
         .btn:disabled {
         background-color: rgb(187, 202, 202);
         background-color: var(--line-border-empty);
-        cursor: not;
+        cursor: not-allowed;
             }
