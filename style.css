@@ -21,11 +21,15 @@ text-align: center;
 
 .progress-container{
    display:flex;
-   align-items: center;     
    justify-content: space-between;
+   align-items: center;     
    position: relative;
    margin-bottom: 30px;
    max-width: 100%;
    width: 350px;
 }
 
+.progress {
+    background-color: rgb(61, 31, 116);
+    position: absolute;
+}
